@@ -15,7 +15,7 @@ def rgb_to_hex(red, green, blue):
     return '{:02x}{:02x}{:02x}'.format(red, green, blue)
 
 
-########## Loop ##########
+########## Run ##########
 colors = []
 true_colors = []
 already_in = []
